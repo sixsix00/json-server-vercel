@@ -1,0 +1,67 @@
+{
+  "alias": [
+    {
+      "key": 1,
+      "districtCode": "1111",
+      "alias": "77",
+      "created": {
+        "date": "2024-02-15",
+        "time": "1:25:20",
+        "createdUser": "Lucas"
+      },
+      "edited": {
+        "date": "2024/03/19",
+        "time": "23:31:14"
+      },
+      "actions": ["edit", "delete"],
+      "id": "e3cf"
+    },
+    {
+      "key": 2,
+      "districtCode": "123",
+      "alias": "66",
+      "created": {
+        "date": "2024-02-15",
+        "time": "5:25:20",
+        "createdUser": "Lucas"
+      },
+      "edited": {
+        "date": "2024/03/19",
+        "time": "23:31:07"
+      },
+      "actions": ["edit", "delete"],
+      "id": "0970"
+    },
+    {
+      "key": 3,
+      "districtCode": "555",
+      "alias": "5555",
+      "created": {
+        "date": "2024-02-15",
+        "time": "14:25:18",
+        "createdUser": "Lucas"
+      },
+      "edited": {
+        "date": "2024/03/19",
+        "time": "23:31:00"
+      },
+      "actions": ["edit", "delete"],
+      "id": "df53"
+    },
+    {
+      "id": "d09e2bc3-c252-40b9-b948-c9d522e2c0ac",
+      "districtCode": "5254535",
+      "alias": "8888",
+      "created": {
+        "date": "2024/03/19",
+        "time": "23:39:36",
+        "createdUser": "Lucas"
+      },
+      "edited": {
+        "date": "2024/03/20",
+        "time": "09:38:23"
+      },
+      "actions": ["edit", "delete"]
+    }
+  ]
+}
